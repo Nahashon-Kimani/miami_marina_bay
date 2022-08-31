@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* top bar stylings starts */
+
+    .top-bar h2{
+        color: #48CAE4;
+    }
+    
+    .top-bar a{
+        color: #A49F96;
+    }
+
+    .top-bar a:hover{
+        color: #48CAE4;
+    }
+
+/* top bar stylings ends */
+
+/* Nav bar stylings starts */
+
+    nav.navbar{
+        padding-top: 0px!important;
+        padding-bottom: 0px!important;
+    }
+
+    nav.navbar a{
+        padding-top: 30px!important;
+        padding-bottom: 30px!important;
+    }
+
+    nav.navbar li:hover{
+        background-color: #48CAE4;
+    }
+
+/* Nav bar stylings ends */
+
+/* Main slider section starts */
+    .main-slider img{
+        max-height: 70vh;
+    }
+
+    .main-slider .carousel-caption{
+        background-color: #48CAE4;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        /* color: #A49F96; */
+    }
+/* Main slider section ends */
