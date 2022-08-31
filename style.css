@@ -48,3 +48,20 @@ body{
         /* color: #A49F96; */
     }
 /* Main slider section ends */
+
+
+/* Program styling starts */
+    .program img{
+        height: 300px;
+        opacity: .8;  
+    }
+
+    .program .card:hover img{
+        opacity: 1;
+    }
+
+    .program .card:hover .card-body{
+        background-color: #48CAE4;
+        color: #ffffff;
+    }
+/* Program styling ends */
