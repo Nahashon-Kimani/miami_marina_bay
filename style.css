@@ -68,8 +68,8 @@ body{
 
 /* Ticket section stylings */
     .tickets{
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 150px;
+        padding-bottom: 150px;
         background: linear-gradient(45deg, #48cae401, #48cae4, #48CAE401), url('./images/2.jpg');
         background-position: center;
         background-repeat: no-repeat;
@@ -78,3 +78,21 @@ body{
         
 }
 /* Ticket section stylings */
+
+/* Timetable section stylings  */
+    .timetable{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .timetable p.title{
+        background-color: #48CAE4;
+        color: #ffffff;
+    }
+
+    .timetable img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+/* Timetable section stylings ends */
