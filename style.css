@@ -133,4 +133,8 @@ body{
     .lower-footer i{
         color: #48CAE4;
     }
+    .lower-footer a{
+        color: #48CAE4;
+        text-decoration: none;
+    }
 /* Lower footer section */
